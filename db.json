@@ -1,0 +1,362 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Demo User",
+      "email": "demo@mamohealth.com",
+      "password": "demo123",
+      "age": 25,
+      "gender": "Not specified",
+      "weight": 70,
+      "height": 170,
+      "language": "English",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "healthData": [
+    {
+      "id": "1",
+      "userId": "1",
+      "dailySteps": 8500,
+      "sleepHours": 7.5,
+      "waterIntake": 2.5,
+      "dietQuality": "good",
+      "exerciseMinutes": 45,
+      "heartRate": 72,
+      "bloodPressure": "120/80",
+      "weight": 70,
+      "date": "2024-01-15",
+      "createdAt": "2024-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "e3aa6d32-1557-4b4b-886b-055929180dfd",
+      "userId": "1",
+      "dailySteps": 100,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:11.014Z"
+    },
+    {
+      "id": "0cb74759-de22-4fb5-abce-3607b0b8c810",
+      "userId": "1",
+      "caloriesBurned": 4,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:11.014Z"
+    },
+    {
+      "id": "f87e9d19-a91a-4fea-ad37-77c3dc1cfd39",
+      "userId": "1",
+      "dailySteps": 200,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:11.669Z"
+    },
+    {
+      "id": "2d36959a-8905-469e-9d12-ceabc4c8a0a7",
+      "userId": "1",
+      "caloriesBurned": 8,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:11.669Z"
+    },
+    {
+      "id": "fec55cc9-76f6-4a70-9100-87352873a2ba",
+      "userId": "1",
+      "dailySteps": 300,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.363Z"
+    },
+    {
+      "id": "a319531d-bdab-420e-b2a8-29a62253c740",
+      "userId": "1",
+      "caloriesBurned": 12,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.364Z"
+    },
+    {
+      "id": "1761efe3-0d19-47ee-bb3a-88c6039c2fe5",
+      "userId": "1",
+      "dailySteps": 400,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.556Z"
+    },
+    {
+      "id": "e6227fe6-bbc6-4497-9b6d-50d5b9de273f",
+      "userId": "1",
+      "caloriesBurned": 16,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.556Z"
+    },
+    {
+      "id": "37f4a32a-8ef1-44a2-8227-c1da9a1edb05",
+      "userId": "1",
+      "dailySteps": 500,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.730Z"
+    },
+    {
+      "id": "1c0c48ec-dd6b-41eb-bdc5-d35fb2d7de2b",
+      "userId": "1",
+      "caloriesBurned": 20,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.730Z"
+    },
+    {
+      "id": "a9b54c6d-80c9-4d37-93aa-d8d3f33e22e7",
+      "userId": "1",
+      "dailySteps": 600,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.902Z"
+    },
+    {
+      "id": "6e99e7bb-b9fe-4670-9c47-82eea3095836",
+      "userId": "1",
+      "caloriesBurned": 24,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:12.903Z"
+    },
+    {
+      "id": "fcba71dc-75e5-414e-9c63-ef465f3b9ad4",
+      "userId": "1",
+      "dailySteps": 700,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:13.068Z"
+    },
+    {
+      "id": "78256744-ff6f-4542-bff4-d74abcc80512",
+      "userId": "1",
+      "caloriesBurned": 28,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:13.068Z"
+    },
+    {
+      "id": "36262a51-d7b9-470f-bdda-3c8ef763889b",
+      "userId": "1",
+      "dailySteps": 800,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:13.276Z"
+    },
+    {
+      "id": "5e86ab7c-cbb3-4268-a212-687e93e2dbbb",
+      "userId": "1",
+      "caloriesBurned": 32,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:13.276Z"
+    },
+    {
+      "id": "a121ea32-5e23-4dea-a084-e7cebb737e01",
+      "userId": "1",
+      "dailySteps": 900,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:13.503Z"
+    },
+    {
+      "id": "e223b50d-879b-4cc0-a5fa-dccc61eb28e5",
+      "userId": "1",
+      "caloriesBurned": 36,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:25:13.503Z"
+    },
+    {
+      "id": "bd0f8518-0961-40d5-8c27-f54b0a9e88ec",
+      "userId": "1",
+      "dailySteps": 800,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:14.436Z"
+    },
+    {
+      "id": "b4f746c4-6eef-4a8f-9e83-7b948669d827",
+      "userId": "1",
+      "caloriesBurned": 32,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:14.436Z"
+    },
+    {
+      "id": "ebcd459c-0501-4aa8-b027-be34d2c54329",
+      "userId": "1",
+      "dailySteps": 700,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:15.087Z"
+    },
+    {
+      "id": "afec959f-fb63-4ed4-afbc-1f938a0818ec",
+      "userId": "1",
+      "caloriesBurned": 28,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:15.087Z"
+    },
+    {
+      "id": "d28f1207-07ae-4ded-8022-d65946b6d6ac",
+      "userId": "1",
+      "dailySteps": 600,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:15.537Z"
+    },
+    {
+      "id": "e9dc4a2a-1a7a-40db-9d8f-a1aee3f84364",
+      "userId": "1",
+      "caloriesBurned": 24,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:15.537Z"
+    },
+    {
+      "id": "8680c977-9114-43a3-97e7-38bd8d31630b",
+      "userId": "1",
+      "dailySteps": 500,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:15.894Z"
+    },
+    {
+      "id": "e83523a9-da27-497a-9a08-82ab868cb13a",
+      "userId": "1",
+      "caloriesBurned": 20,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:15.894Z"
+    },
+    {
+      "id": "39ff72f1-aa87-4832-b433-0ba56b52198c",
+      "userId": "1",
+      "dailySteps": 400,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:16.247Z"
+    },
+    {
+      "id": "fb6f751f-6f1f-4ea4-a642-393785e5e08e",
+      "userId": "1",
+      "caloriesBurned": 16,
+      "date": "2025-08-22",
+      "createdAt": "2025-08-22T16:27:16.247Z"
+    }
+  ],
+  "aiResponses": [
+    {
+      "id": "1",
+      "userId": "1",
+      "category": "symptoms",
+      "query": "headache, fatigue",
+      "response": "Based on your symptoms, this could be related to stress, dehydration, or lack of sleep. Please consult a healthcare professional if symptoms persist.",
+      "createdAt": "2024-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "3db93380-5722-4c9c-9039-ddc5e060bbbc",
+      "userId": "1",
+      "category": "nutrition",
+      "query": "",
+      "response": "Hello!  I'm here to help you achieve your general wellness goals through personalized nutrition advice.  Remember, I am an AI and cannot provide medical advice. This information is for general knowledge and should not replace consultation with a registered dietitian or doctor.  Always consult a healthcare professional before making significant dietary changes, especially if you have underlying health conditions.\n\n\n**1. Daily Calorie Needs 🍎**\n\nBased on your age (25), weight (70kg), height (170cm), and moderate activity level, your estimated daily calorie needs are approximately 2200-2500 calories. This is an estimate, and individual needs can vary.  Factors like metabolism and specific activity levels can influence this number.  Tracking your calorie intake for a week using a food diary or app can help you fine-tune this estimate.\n\n\n**2. Macronutrient Breakdown ⚖️**\n\nA balanced macronutrient ratio is crucial for overall health.  Aim for the following approximate breakdown:\n\n1. **Protein (15-20% of daily calories):**  Protein is essential for building and repairing tissues.  This translates to roughly 88-116 grams of protein per day (based on 2200-2500 calorie range).\n2. **Carbohydrates (45-65% of daily calories):** Carbohydrates provide energy. This translates to approximately 275-412 grams of carbohydrates per day (based on 2200-2500 calorie range). Prioritize complex carbohydrates like whole grains, fruits, and vegetables.\n3. **Fats (20-35% of daily calories):** Healthy fats are crucial for hormone production and brain function. This translates to roughly 49-87 grams of fat per day (based on 2200-2500 calorie range). Focus on unsaturated fats from sources like avocados, nuts, seeds, and olive oil.\n\n\n**3. Meal Plan Suggestions 🍽️**\n\nHere's a sample meal plan. Adjust portion sizes to meet your individual calorie needs:\n\n* **Breakfast (400-500 calories):** Oatmeal with berries and nuts, Greek yogurt with fruit and granola, or eggs with whole-wheat toast and avocado.\n* **Lunch (500-600 calories):** Salad with grilled chicken or fish, lentil soup with whole-grain bread, or a whole-wheat wrap with hummus, vegetables, and lean protein.\n* **Dinner (600-700 calories):** Baked salmon with roasted vegetables, chicken stir-fry with brown rice, or lean ground beef with sweet potato and broccoli.\n* **Snacks (200-300 calories total):** Fruits, vegetables with hummus, a handful of nuts, or Greek yogurt.\n\n\n**4. Food Recommendations 👍**\n\n* **Lean Protein Sources:** Chicken breast, fish (salmon, tuna), beans, lentils, tofu, Greek yogurt.\n* **Complex Carbohydrates:** Brown rice, quinoa, whole-wheat bread, oats, sweet potatoes, fruits, vegetables.\n* **Healthy Fats:** Avocados, nuts (almonds, walnuts), seeds (chia, flax), olive oil.\n* **Fruits & Vegetables:** Aim for a variety of colorful fruits and vegetables daily.  They are packed with vitamins, minerals, and fiber.\n\n\n**5. Supplements 🤔**\n\nGenerally, a balanced diet should provide all necessary nutrients. However, depending on individual needs and dietary choices, a multivitamin might be beneficial.  Consider consulting a doctor or registered dietitian before taking any supplements.\n\n\n**6. Hydration Tips 💧**\n\n* **Drink plenty of water throughout the day.** Aim for at least 8 glasses (64 ounces) of water daily.\n* **Carry a reusable water bottle.** This will help you stay hydrated on the go.\n* **Infuse your water with fruits and herbs.**  This can add flavor and make it more enjoyable to drink.\n* **Limit sugary drinks.** Sodas, juices, and sweetened beverages are high in calories and offer little nutritional value.\n\n\nRemember, consistency is key!  Start by making small, sustainable changes to your diet and lifestyle.  Don't be afraid to experiment with new recipes and find foods you enjoy.  Regular exercise combined with a healthy diet will significantly contribute to your overall wellness.  Good luck on your journey to better health! 🎉\n",
+      "createdAt": "2025-08-22T16:29:15.664Z"
+    },
+    {
+      "id": "5a54a9db-cf57-4ccf-aac1-9bc3406ca148",
+      "userId": "1",
+      "category": "nutrition",
+      "query": "",
+      "response": "Hello!  I'm here to help you craft a personalized nutrition plan to support your muscle-building goals as a vegetarian.  Remember, I'm an AI and cannot provide medical advice. This information is for general knowledge and should be discussed with your doctor or a registered dietitian before implementation.  Let's get started! 💪\n\n**1. Daily Calorie Needs 🧮**\n\nTo build muscle, you need a calorie surplus.  Based on your age (25), weight (70kg), height (170cm), and sedentary lifestyle, your Basal Metabolic Rate (BMR) is approximately 1600-1700 calories.  Since you're sedentary and aiming for muscle growth, let's aim for a daily calorie intake of **2000-2200 calories**. This surplus will provide the energy needed for muscle protein synthesis.  This is an estimate, and individual needs vary.  Tracking your progress and adjusting accordingly is crucial.\n\n**2. Macronutrient Breakdown ⚖️**\n\nTo maximize muscle growth, your macronutrient ratio should prioritize protein.\n\n*   **Protein:** Aim for 1.6-2.2 grams of protein per kilogram of body weight (112-154 grams).  This is crucial for muscle repair and growth. 🥩\n*   **Carbohydrates:**  Approximately 40-50% of your daily calories.  Carbs provide the energy for your workouts and daily activities. 🍞\n*   **Fats:** Approximately 20-30% of your daily calories. Healthy fats are essential for hormone production and overall health. 🥑\n\n**Example:**  With a 2100 calorie diet, this could look like:\n\n*   Protein: 150-200 grams (600-800 calories)\n*   Carbohydrates: 260-315 grams (1040-1260 calories)\n*   Fats: 47-70 grams (420-630 calories)\n\n\n**3. Meal Plan Suggestions 🍽️**\n\nHere's a sample meal plan.  Remember to adjust portion sizes based on your individual calorie needs and hunger levels.\n\n*   **Breakfast (400-500 calories):** Oatmeal with berries, nuts, and seeds; Greek yogurt with fruit and granola; Tofu scramble with vegetables.\n*   **Lunch (500-600 calories):**  Large salad with lentils or chickpeas, quinoa, avocado, and a variety of vegetables; Veggie burger on a whole-wheat bun with a side salad;  Vegetarian chili with brown rice.\n*   **Dinner (600-700 calories):**  Lentil Shepherd's pie with sweet potato topping;  Vegetable stir-fry with tofu or tempeh;  Black bean burgers with roasted vegetables.\n*   **Snacks (200-300 calories):**  Trail mix (nuts, seeds, dried fruit);  Greek yogurt;  Fruit with nut butter;  Edamame.\n\n\n**4. Food Recommendations 🥦🥑🥜**\n\n*   **High-Protein Sources:** Lentils, chickpeas, beans, tofu, tempeh, edamame, quinoa, Greek yogurt, nuts, seeds.\n*   **Complex Carbohydrates:**  Brown rice, quinoa, oats, sweet potatoes, whole-wheat bread, fruits, vegetables.\n*   **Healthy Fats:** Avocados, nuts, seeds, olive oil.\n\n\n**5. Supplements 🤔**\n\nWhile a balanced vegetarian diet can provide all necessary nutrients, some supplements might be beneficial:\n\n*   **Creatine:**  Can enhance strength and power output.  Consult your doctor before starting.\n*   **Vitamin B12:**  Often deficient in vegetarian diets.  A supplement is usually recommended.\n*   **Iron:**  Vegetarian sources of iron are less bioavailable.  Consider an iron supplement if needed, along with vitamin C to enhance absorption.  Regular blood tests are recommended to monitor iron levels.\n\n**Always consult your doctor or a registered dietitian before starting any supplement regimen.**\n\n\n**6. Hydration Tips 💧**\n\nStaying hydrated is crucial for muscle recovery and overall health.\n\n*   Drink plenty of water throughout the day. Aim for at least 8 glasses (2 liters).\n*   Carry a reusable water bottle to remind yourself to drink.\n*   Consider adding electrolytes, especially after intense workouts.\n\n\n**Disclaimer:** This information is for general knowledge and does not constitute medical advice.  Individual needs vary, and it's essential to consult with a healthcare professional or registered dietitian before making significant dietary changes, especially if you have underlying health conditions.  They can help you create a personalized plan that meets your specific needs and goals. Remember to listen to your body and adjust your plan as needed. Good luck with your fitness journey! 🎉\n",
+      "createdAt": "2025-08-22T16:42:23.603Z"
+    }
+  ],
+  "medications": [
+    {
+      "id": "1",
+      "userId": "1",
+      "name": "Vitamin D",
+      "dosage": "1000 IU",
+      "frequency": "daily",
+      "time": "09:00",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "emergencyContacts": [
+    {
+      "id": "1",
+      "userId": "1",
+      "name": "Emergency Services",
+      "phone": "911",
+      "type": "emergency",
+      "isDefault": true
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "name": "Dr. Smith",
+      "phone": "+1-555-0123",
+      "type": "doctor",
+      "isDefault": false
+    }
+  ],
+  "mentalHealthLogs": [
+    {
+      "id": "1",
+      "userId": "1",
+      "mood": "good",
+      "stressLevel": 3,
+      "anxietyLevel": 2,
+      "notes": "Feeling good today after morning exercise",
+      "date": "2024-01-15",
+      "createdAt": "2024-01-15T00:00:00.000Z"
+    }
+  ],
+  "nutritionPlans": [
+    {
+      "id": "1",
+      "userId": "1",
+      "name": "Balanced Diet Plan",
+      "calories": 2000,
+      "protein": 150,
+      "carbs": 250,
+      "fat": 65,
+      "meals": [
+        {
+          "name": "Breakfast",
+          "foods": [
+            "Oatmeal",
+            "Banana",
+            "Almonds"
+          ],
+          "calories": 400
+        },
+        {
+          "name": "Lunch",
+          "foods": [
+            "Grilled Chicken",
+            "Rice",
+            "Vegetables"
+          ],
+          "calories": 600
+        },
+        {
+          "name": "Dinner",
+          "foods": [
+            "Salmon",
+            "Quinoa",
+            "Broccoli"
+          ],
+          "calories": 550
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "fitnessGoals": [
+    {
+      "id": "1",
+      "userId": "1",
+      "type": "steps",
+      "target": 10000,
+      "current": 8500,
+      "period": "daily",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "type": "weight",
+      "target": 68,
+      "current": 70,
+      "period": "monthly",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
